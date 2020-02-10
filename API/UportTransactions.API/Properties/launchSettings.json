@@ -1,0 +1,35 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false, 
+    "anonymousAuthentication": true, 
+    "iisExpress": {
+      "applicationUrl": "http://localhost:57517",
+      "sslPort": 44388
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        //"ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_ENVIRONMENT": "Production",
+        "ETHERSCAN_API_KEY": "A62G2VWWJRDJZUGMXYVGZAWDKFZ7YZYVQH",
+        "ETHERSCAN_API_V1_URL": "https://api.etherscan.io/api",
+        "ETHERSCAN_API_V2_URL": "https://api-rinkeby.etherscan.io/api",
+        "ETHERSCAN_API_V3_URL": "https://api-ropsten.v3.etherscan.io/api"
+      }
+    },
+    "UportTransactions.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/values",
+      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UportTransactions.UI", "UportTransactions.UI\UportTransactions.UI.csproj", "{280F01E9-3CB2-4EA6-A03B-25894C58F068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280F01E9-3CB2-4EA6-A03B-25894C58F068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280F01E9-3CB2-4EA6-A03B-25894C58F068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280F01E9-3CB2-4EA6-A03B-25894C58F068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280F01E9-3CB2-4EA6-A03B-25894C58F068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989ECC86-6F7C-46AA-A79E-113E220A3350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989ECC86-6F7C-46AA-A79E-113E220A3350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989ECC86-6F7C-46AA-A79E-113E220A3350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989ECC86-6F7C-46AA-A79E-113E220A3350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5CA729-1787-4E83-BC4D-733BAF96D2F7}
+	EndGlobalSection
+EndGlobal

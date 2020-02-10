@@ -1,0 +1,15 @@
+API/UportTransactions.API/bin/
+API/UportTransactions.API/obj/
+API/UportTransactions.BLL/bin/
+API/UportTransaction.BLL/obj/
+API/UportTransactions.DAL/bin/
+API/UportTransactions.DAL/obj/
+API/UportTransactions.BLL/obj/
+API/UPortTransactions.Database/bin/
+API/UPortTransactions.Database/obj/
+API/.vs/UportTransactions.API/v16/Server/sqlite3/
+*.dtbcache
+*.suo
+*.dbmdl
+API/UPortTransactions.Test/bin/
+API/UPortTransactions.Test/obj/
